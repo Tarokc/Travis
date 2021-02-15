@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/cphdat3sem2019spring/travisGettingStarted.svg?branch=master)](https://travis-ci.org/cphdat3sem2019spring/travisGettingStarted)
+[![Build Status](https://travis-ci.com/Tarokc/Travis.svg?branch=main)](https://travis-ci.com/Tarokc/Travis)
 
 Ultra simple Java Project meant for a Travis introduction
 
